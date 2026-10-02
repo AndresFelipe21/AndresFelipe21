@@ -2,13 +2,11 @@
 
 # 👋 Hola, soy Andrés Felipe
 
-### 💻 Software Developer en formación
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer+en+formación;Java+%7C+Spring+Boot+%7C+Angular;JavaScript+%7C+TypeScript+%7C+Python" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Desarrollador+de+Software+en+formación;Java+%7C+Spring+Boot+%7C+Angular;JavaScript+%7C+TypeScript+%7C+Python;Construyendo+proyectos+y+aprendiendo+cada+día" alt="Typing SVG" />
+<br><br>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AndresFelipe21&style=for-the-badge&color=blue" alt="Profile views"/>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,python,html,css" />
 
 </div>
 
