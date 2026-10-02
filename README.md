@@ -5,235 +5,233 @@
   />
 </p>
 
----
-
-## 🧑‍💻 Sobre mí
-
-Soy **Tecnólogo en Desarrollo de Software** y actualmente estudio **Ingeniería de Software**.
-
-Me interesa el desarrollo de aplicaciones y disfruto aprender nuevas tecnologías mediante la construcción de proyectos.
-
-Actualmente estoy fortaleciendo mis conocimientos principalmente en:
-
-* ☕ **Java**
-* 🌱 **Spring Boot**
-* 🟨 **JavaScript**
-* 🔷 **TypeScript**
-* 🅰️ **Angular**
-* 📱 **Ionic**
-* 🐍 **Python**
-* 🔥 **Firebase**
-* 🗄️ **MySQL / PostgreSQL**
-
-Mi objetivo es seguir creciendo como desarrollador y participar en proyectos donde pueda aplicar mis conocimientos y continuar aprendiendo.
-
----
-
-# 🛠️ Tecnologías
-
-### 💻 Lenguajes
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css" />
-
-</p>
-
-### ⚙️ Frameworks y herramientas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,angular,ionic,firebase,mysql,postgres,git,github,vscode,idea" />
-
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Spring+Boot;Angular+%7C+Ionic;Python+%7C+Tkinter;Construyendo+proyectos+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-# 🚀 Proyectos destacados
+## 👨‍💻 Sobre mí
 
-<div align="center">
+Soy desarrollador de software enfocado en la construcción de aplicaciones web y móviles.
 
-|                    💰 FinApp                   |                ✈️ Travel App                |
-| :--------------------------------------------: | :-----------------------------------------: |
-| Aplicación para gestión de finanzas personales | Aplicación para gestión de viajes y hoteles |
-|            Flutter • Dart • Firebase           |         Angular • Ionic • TypeScript        |
+🎓 Tecnólogo en Desarrollo de Software
+💻 Estudiante de Ingeniería de Software
+🚀 Interesado en desarrollo Frontend y Backend
+📚 Aprendiendo y construyendo proyectos constantemente
+🌱 En constante crecimiento en programación y desarrollo de software
 
-</div>
+---
+
+## 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,ionic,python,html,css,mysql,postgresql,firebase,git,github,vscode,idea" />
+</p>
+
+---
+
+## 💻 Lenguajes y herramientas
+
+```text
+Java          ███████████████████░░
+JavaScript    █████████████████░░░░
+TypeScript    ████████████████░░░░░
+Python        ███████████████░░░░░░
+HTML          ████████████████████
+CSS           ███████████████████░
+SQL           ████████████████░░░░
+```
+
+---
+
+## 🚀 Proyectos
 
 ### 💰 FinApp
 
-Aplicación orientada a la gestión de **finanzas personales**, permitiendo registrar ingresos y gastos y consultar información financiera.
+Aplicación para la gestión y análisis de finanzas personales.
 
 **Tecnologías:**
 
-`Flutter` `Dart` `Firebase` `Firestore`
+* Flutter
+* Dart
+* Firebase
+* Firestore
 
 **Características:**
 
-* 👤 Registro y autenticación
-* 💰 Registro de ingresos y gastos
-* 📊 Visualización de información
-* 🗂️ Clasificación de movimientos
-* 🔥 Persistencia de datos con Firebase
+* Registro de usuarios
+* Registro de ingresos y gastos
+* Clasificación de movimientos
+* Cálculo de balance
+* Estadísticas financieras
+* Visualización de información
 
 ---
 
 ### ✈️ Travel App
 
-Aplicación web desarrollada con **Angular e Ionic** para gestionar hoteles, favoritos y reservas.
-
-**Tecnologías:**
-
-`Angular` `Ionic` `TypeScript` `HTML` `CSS`
+Aplicación de planificación de viajes desarrollada con Angular e Ionic.
 
 **Características:**
 
-* 🏨 Lista de hoteles
-* 🔎 Búsqueda por ciudad o nombre
+* 🔎 Búsqueda de hoteles
+* 🏨 Información de hoteles
+* 📅 Reservas
 * ❤️ Favoritos
 * 🛒 Carrito
-* 👥 Cantidad de personas
-* 💰 Cálculo de reservas
-* 🔄 Comunicación entre componentes
-* 📦 Uso de `@Input` y `@Output`
+* 🔢 Cantidad de personas
+* 🔍 Filtro por ciudad y hotel
+* 🧩 Componentes reutilizables
+* 📦 Uso de `@Input`
+* 📤 Uso de `@Output`
 * 🔗 Property Binding
 * 🖱️ Event Binding
 * 🔄 Two-Way Binding
+
+**Tecnologías:**
+
+* Angular
+* Ionic
+* TypeScript
+* HTML
+* CSS
 
 ---
 
 ### 🐍 Python Projects
 
-Proyectos realizados para fortalecer fundamentos de programación y creación de interfaces gráficas.
+Proyectos desarrollados para fortalecer la lógica de programación y el desarrollo de interfaces gráficas.
 
 **Tecnologías:**
 
-`Python` `Tkinter`
+* Python
+* Tkinter
 
-Algunos ejercicios y aplicaciones incluyen:
+**Proyectos:**
 
-* 🧮 Calculadoras
-* 🏧 Simulación de cajeros
-* 🧾 Formularios
-* 👤 Registro de usuarios
-* 🔢 Lógica y estructuras de control
-* 🖥️ Interfaces gráficas
+* 🧮 Calculadora
+* 🏧 Sistema ATM
+* 🧾 Sistema de facturación
+* 📝 Formularios
+* 🔢 Validación de datos
 
 ---
 
-### ☕ Java / Spring Boot
+### ☕ Java & Spring Boot
 
-Proyectos académicos orientados al desarrollo backend y programación orientada a objetos.
+Proyectos orientados al desarrollo Backend utilizando Java y Spring Boot.
 
 **Tecnologías:**
 
-`Java` `Spring Boot` `SQL` `PostgreSQL`
-
-Temas trabajados:
-
-* 🧱 Programación orientada a objetos
-* 🌐 APIs REST
-* 🔐 Autenticación
-* 🗄️ Bases de datos
-* 📊 Persistencia de información
+* Java
+* Spring Boot
+* Spring Security
+* PostgreSQL
+* MySQL
+* REST API
+* JWT
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresFelipe21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFelipe21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AndresFelipe21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AndresFelipe21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndresFelipe21/AndresFelipe21/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AndresFelipe21&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFelipe21&layout=compact&theme=tokyonight&hide_border=true"
+ height="180"
+/>
+
 </p>
 
 ---
 
-# 📚 Actualmente aprendiendo
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=AndresFelipe21&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AndresFelipe21&theme=tokyonight&no-frame=true&margin-w=10"
+  />
+</p>
+
+---
+
+## 🐍 Mi actividad en GitHub
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/AndresFelipe21/AndresFelipe21/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
 
 ```text
-Java
-  ↓
-Spring Boot
-  ↓
-APIs REST
-  ↓
-Bases de datos
-  ↓
-Angular + TypeScript
-  ↓
+Angular
 Ionic
-  ↓
-Aplicaciones completas
+TypeScript
+Spring Boot
+Python
+Bases de datos
+Arquitectura de software
+Desarrollo de aplicaciones web y móviles
 ```
 
-</div>
+---
+
+## 🎯 Objetivos
+
+* 🚀 Seguir mejorando mis habilidades como desarrollador
+* 💻 Construir proyectos reales
+* 🧠 Fortalecer mis conocimientos de Backend y Frontend
+* 📚 Aprender nuevas tecnologías
+* 🌎 Participar en proyectos de desarrollo de software
+* 🤝 Continuar creciendo profesionalmente
 
 ---
 
-# 🎯 Objetivo profesional
+## 📫 Contacto
 
-Continuar desarrollándome como **Software Developer**, fortaleciendo mis conocimientos de frontend, backend, bases de datos y desarrollo de aplicaciones.
-
-Estoy interesado en seguir aprendiendo y participar en proyectos donde pueda aplicar mis conocimientos y adquirir experiencia profesional.
-
----
-
-# 📫 Contacto
-
-<div align="center">
-
-<a href="https://github.com/AndresFelipe21">
-<img src="https://img.shields.io/badge/GitHub-AndresFelipe21-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💻 Siempre aprendiendo. Siempre construyendo. 🚀
-
-</div>
+<p align="center">
+  <a href="https://github.com/AndresFelipe21">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:66BB6A&height=120&section=footer"
+    width="100%"
+  />
+</p>
 
-⭐ Si encuentras algún proyecto interesante, ¡no dudes en explorarlo!
-
-</div>
+<p align="center">
+  <b>💻 Code • Learn • Build • Repeat 🚀</b>
+</p>
 
