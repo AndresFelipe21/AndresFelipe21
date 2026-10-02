@@ -1,14 +1,9 @@
-<div align="center">
-
-# 👋 Hola, soy Andrés Felipe
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer+en+formación;Java+%7C+Spring+Boot+%7C+Angular;JavaScript+%7C+TypeScript+%7C+Python" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,python,html,css" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:66BB6A&height=200&section=header&text=Andres%20Felipe&fontSize=45&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
 ---
 
